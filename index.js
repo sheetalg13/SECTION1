@@ -1,0 +1,11 @@
+console.log('hello javascript');
+num=235;
+console.log(num);
+lunch="pizza";
+console.log(lunch);
+console.log(typeof(num));
+console.log(typeof(lunch));
+num1=222;
+num2=444;
+add=num1+num2;
+console.log('addition of numb2 n numb1 is = ' +add);
